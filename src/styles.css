@@ -1,1 +1,61 @@
 @import "tailwindcss";
+
+/* Animated background blobs */
+:root {
+  --blob-size: 40rem;
+  --blob-blur: 80px;
+}
+
+.bg-animated {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.bg-animated .blob {
+  position: absolute;
+  width: var(--blob-size);
+  height: var(--blob-size);
+  border-radius: 9999px;
+  filter: blur(var(--blob-blur));
+  opacity: 0.5;
+  mix-blend-mode: screen;
+  /* animation: float 18s ease-in-out infinite; */
+}
+
+.bg-animated .blob:nth-child(1) {
+  background: radial-gradient(circle at 30% 30%, #10b981, transparent 60%);
+  top: -10%;
+  left: -10%;
+  animation-delay: 0s;
+}
+
+.bg-animated .blob:nth-child(2) {
+  background: radial-gradient(circle at 70% 40%, #22c55e, transparent 60%);
+  top: 20%;
+  right: -10%;
+  animation-delay: 3s;
+}
+
+.bg-animated .blob:nth-child(3) {
+  background: radial-gradient(circle at 40% 70%, #34d399, transparent 60%);
+  bottom: -10%;
+  left: 20%;
+  animation-delay: 6s;
+}
+/* 
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0) translateX(0) scale(1);
+  }
+  25% {
+    transform: translateY(-20px) translateX(10px) scale(1.05);
+  }
+  50% {
+    transform: translateY(10px) translateX(-10px) scale(0.98);
+  }
+  75% {
+    transform: translateY(-15px) translateX(5px) scale(1.02);
+  }
+} */

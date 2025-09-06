@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { Link } from "@tanstack/react-router";
 import { getValidAccessToken } from "../lib/spotifyAuth";
+import defaultPlaylists from "./default-playlists-response.json";
 
 type GameImage = { url: string };
 
@@ -27,17 +28,18 @@ export default function Select() {
             headers: { Authorization: `Bearer ${token}` },
           }),
           fetch(
-            "https://api.spotify.com/v1/browse/categories/toplists/playlists?limit=20",
+            "https://api.spotify.com/v1/browse/featured-playlists?limit=30",
             { headers: { Authorization: `Bearer ${token}` } }
           ),
         ]);
         if (!myPlRes.ok) throw new Error("Failed to load your playlists");
-        if (!topListsRes.ok)
-          throw new Error("Failed to load popular playlists");
+        let topListsData: { playlists: { items: PlaylistLite[] } };
+        if (!topListsRes.ok) {
+          topListsData = defaultPlaylists;
+        } else {
+          topListsData = await topListsRes.json();
+        }
         const myData = (await myPlRes.json()) as { items: PlaylistLite[] };
-        const topListsData = (await topListsRes.json()) as {
-          playlists: { items: PlaylistLite[] };
-        };
         setPlaylists(myData.items ?? []);
         setPopularPlaylists(topListsData.playlists?.items ?? []);
       } catch (e) {

@@ -1,0 +1,1093 @@
+{
+  "message": "Popular Playlists",
+  "playlists": {
+    "href": "https://api.spotify.com/v1/browse/featured-playlists?offset=0&limit=30&locale=en-CA,en-US;q%3D0.7,en;q%3D0.3",
+    "items": [
+      {
+        "collaborative": false,
+        "description": "The hottest 50. Cover: Lady Gaga",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcBWIGoYBM5M",
+        "id": "37i9dQZF1DXcBWIGoYBM5M",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000020f849581fc876c2220714a42",
+            "width": null
+          }
+        ],
+        "name": "Today’s Top Hits",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#FFFFFF",
+        "public": true,
+        "snapshot_id": "AAAAAAKFRhvQ5AtvbQbPmrDoBlVhHANR",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcBWIGoYBM5M/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DXcBWIGoYBM5M"
+      },
+      {
+        "collaborative": false,
+        "description": "Today's top country hits. Cover: Morgan Wallen",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX1lVhptIYRda",
+        "id": "37i9dQZF1DX1lVhptIYRda",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000002d57dcca9594d131a68d1af34",
+            "width": null
+          }
+        ],
+        "name": "Hot Country",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#FFC864",
+        "public": true,
+        "snapshot_id": "AAAAAAa8R9oybOfyalh71izgA9YJpyoX",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX1lVhptIYRda/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX1lVhptIYRda"
+      },
+      {
+        "collaborative": false,
+        "description": "Country music's 50 most played songs in the world. Updated weekly. Cover: BigXthaPlug and Ella Langley",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX7aUUBCKwo4Y"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX7aUUBCKwo4Y",
+        "id": "37i9dQZF1DX7aUUBCKwo4Y",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000024aba8d3c7dde09f6fb1f9249",
+            "width": null
+          }
+        ],
+        "name": "Country Top 50",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "AAAAAGLWyDFp+J3OFwtNw59trBevHD+4",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX7aUUBCKwo4Y/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX7aUUBCKwo4Y"
+      },
+      {
+        "collaborative": false,
+        "description": "Gentle Ambient piano to help you fall asleep. ",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWZd79rJ6a7lp"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWZd79rJ6a7lp",
+        "id": "37i9dQZF1DWZd79rJ6a7lp",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000002cd17d41419faa97069e06c16",
+            "width": null
+          }
+        ],
+        "name": "Sleep",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "AAAAAHHVs9n6zoL57nv7D3Hzy4dBzHqy",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWZd79rJ6a7lp/tracks",
+          "total": 247
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWZd79rJ6a7lp"
+      },
+      {
+        "collaborative": false,
+        "description": "The essential tracks, all in one playlist.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX5KpP2LN299J"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX5KpP2LN299J",
+        "id": "37i9dQZF1DX5KpP2LN299J",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000021e838cde937bb792aedc731b",
+            "width": null
+          }
+        ],
+        "name": "This Is Taylor Swift",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#FFFFFF",
+        "public": true,
+        "snapshot_id": "AAAAAM8qahcnQFfkegiYt0+9w9TOd8u8",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX5KpP2LN299J/tracks",
+          "total": 75
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX5KpP2LN299J"
+      },
+      {
+        "collaborative": false,
+        "description": "The hottest tracks in the North. Cover: Sabrina Carpenter",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXT8uSSn6PRy"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXT8uSSn6PRy",
+        "id": "37i9dQZF1DWXT8uSSn6PRy",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000002e53e0cd95e4b98a298f96914",
+            "width": null
+          }
+        ],
+        "name": "Hot Hits Canada",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#FFFFFF",
+        "public": true,
+        "snapshot_id": "AAAAAMiNARAdpU86GClklqtsX4X14v3e",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXT8uSSn6PRy/tracks",
+          "total": 75
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWXT8uSSn6PRy"
+      },
+      {
+        "collaborative": false,
+        "description": "New music from Justin Bieber, Drake & PARTYNEXTDOOR, Lady Gaga, Calvin Harris & Jessie Reyez,  Goldie Boutilier and more!",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX5DfG8gQdC3F"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX5DfG8gQdC3F",
+        "id": "37i9dQZF1DX5DfG8gQdC3F",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000299aa58db99fe6c9d4e9c4483",
+            "width": null
+          }
+        ],
+        "name": "New Music Friday Canada",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#A0C3D2",
+        "public": true,
+        "snapshot_id": "AAAAAL1jKr/4bkuuhxvK9pdk94smDvU0",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX5DfG8gQdC3F/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX5DfG8gQdC3F"
+      },
+      {
+        "collaborative": false,
+        "description": "Ten hours long continuous white noise to help you relax and let go. ",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWUZ5bk6qqDSy"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWUZ5bk6qqDSy",
+        "id": "37i9dQZF1DWUZ5bk6qqDSy",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000025b4d326fee8531fe32efe166",
+            "width": null
+          }
+        ],
+        "name": "White Noise 10 Hours",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "AAAAAMFmrdRgMUHIAxrPgRw8UmOtvVmZ",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWUZ5bk6qqDSy/tracks",
+          "total": 200
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWUZ5bk6qqDSy"
+      },
+      {
+        "collaborative": false,
+        "description": "Peaceful piano to help you slow down, breathe, and relax. ",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX4sWSpwq3LiO"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4sWSpwq3LiO",
+        "id": "37i9dQZF1DX4sWSpwq3LiO",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000283da657fca565320e9311863",
+            "width": null
+          }
+        ],
+        "name": "Peaceful Piano",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "AAAAAFb/YcYCYuZLLUd7ywhsc5TFfjD/",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4sWSpwq3LiO/tracks",
+          "total": 143
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX4sWSpwq3LiO"
+      },
+      {
+        "collaborative": false,
+        "description": "The biggest party hits of the 2010s. ",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWWylYLMvjuRG"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWWylYLMvjuRG",
+        "id": "37i9dQZF1DWWylYLMvjuRG",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000021cb757ccbe7a4f7e0e67fe4a",
+            "width": null
+          }
+        ],
+        "name": "Party Hits 2010s",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "AAAAAElxBEKqixy1blw2SONHzhGsqMiL",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWWylYLMvjuRG/tracks",
+          "total": 150
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWWylYLMvjuRG"
+      },
+      {
+        "collaborative": false,
+        "description": "Luke Combs and the biggest hits in country music.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWSK8os4XIQBk"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWSK8os4XIQBk",
+        "id": "37i9dQZF1DWSK8os4XIQBk",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000002d8008057db3a21c153cd875b",
+            "width": null
+          }
+        ],
+        "name": "All About Country",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#FFFFFF",
+        "public": true,
+        "snapshot_id": "AAAAADwYyBqB5+Gsi+5Es0Uiht7En3ms",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWSK8os4XIQBk/tracks",
+          "total": 55
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWSK8os4XIQBk"
+      },
+      {
+        "collaborative": false,
+        "description": "Breathe. Sense. Feel. Transcend.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWZqd5JICZI0u"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWZqd5JICZI0u",
+        "id": "37i9dQZF1DWZqd5JICZI0u",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000208dc478ff3e930553f46b9eb",
+            "width": null
+          }
+        ],
+        "name": "Peaceful Meditation",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "AAAAAAgsuAdQNtXYjXcwWQAf9HH/f1AE",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWZqd5JICZI0u/tracks",
+          "total": 168
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWZqd5JICZI0u"
+      },
+      {
+        "collaborative": false,
+        "description": "Rock legends & epic songs that continue to inspire generations. Cover: Ozzy Osbourne",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U",
+        "id": "37i9dQZF1DWXRqgorJj26U",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000024e8b58d63a307fdceee4174a",
+            "width": null
+          }
+        ],
+        "name": "Rock Classics",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "AAAAADikgCjxoOa1DBoLH80yuEU5jcDZ",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U/tracks",
+          "total": 204
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWXRqgorJj26U"
+      },
+      {
+        "collaborative": false,
+        "description": "Soft instrumental Jazz for all your activities.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWV7EzJMK2FUI"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWV7EzJMK2FUI",
+        "id": "37i9dQZF1DWV7EzJMK2FUI",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000002472120b92edea982b5feb264",
+            "width": null
+          }
+        ],
+        "name": "Jazz in the Background",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "AAAAANdvUn7XtJkQkIdcj1P5B4B1jlYS",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWV7EzJMK2FUI/tracks",
+          "total": 500
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWV7EzJMK2FUI"
+      },
+      {
+        "collaborative": false,
+        "description": "Turn on the movement with the latest and greatest in K-Pop! (Cover: aespa)",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX9tPFwDMOaN1",
+        "id": "37i9dQZF1DX9tPFwDMOaN1",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000025dba6ae66e73cc84773bfc9b",
+            "width": null
+          }
+        ],
+        "name": "K-Pop ON! (온)",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#FFFFFF",
+        "public": true,
+        "snapshot_id": "AAAAAKXnQjgQ+iiE1xyNP/H/yLYllcc/",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX9tPFwDMOaN1/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX9tPFwDMOaN1"
+      },
+      {
+        "collaborative": false,
+        "description": "A soundtrack to fuel your good mood while on the road.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX9wC1KY45plY"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX9wC1KY45plY",
+        "id": "37i9dQZF1DX9wC1KY45plY",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000250c7781777a3b0662fce5426",
+            "width": null
+          }
+        ],
+        "name": "Classic Road Trip Songs",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "AAAAAGVlaDyYKEsa/vHRPSQhMX4S+bsr",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX9wC1KY45plY/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX9wC1KY45plY"
+      },
+      {
+        "collaborative": false,
+        "description": "All your favorite Disney hits, including classics from Encanto, Descendants, Frozen, Mufasa: The Lion King, and Lilo & Stitch. ",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX8C9xQcOrE6T"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX8C9xQcOrE6T",
+        "id": "37i9dQZF1DX8C9xQcOrE6T",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000002588cdff4e070199ca03d12d7",
+            "width": null
+          }
+        ],
+        "name": "Disney Hits",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "AAAAAFd0DAAx/iyvJm/MiU07GswWmV56",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX8C9xQcOrE6T/tracks",
+          "total": 139
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX8C9xQcOrE6T"
+      },
+      {
+        "collaborative": false,
+        "description": "That summer sound.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX5Ozry5U6G0d"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX5Ozry5U6G0d",
+        "id": "37i9dQZF1DX5Ozry5U6G0d",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000214cf9bcc5db1b15430578b87",
+            "width": null
+          }
+        ],
+        "name": "Summer Party",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "AAAAANy7Ppst+Yxo8oJ2P0l3YzDeAoj8",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX5Ozry5U6G0d/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX5Ozry5U6G0d"
+      },
+      {
+        "collaborative": false,
+        "description": "Every summer needs a soundtrack. 🐊🌞",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXcvTlrqdAobS"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcvTlrqdAobS",
+        "id": "37i9dQZF1DXcvTlrqdAobS",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000025a7a13df32b76ff9c4b2f65d",
+            "width": null
+          }
+        ],
+        "name": "Summer Hits 2025",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "AAAAAMg7gMFovBX/dpYLCwDnvATk848K",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcvTlrqdAobS/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DXcvTlrqdAobS"
+      },
+      {
+        "collaborative": false,
+        "description": "This is Morgan Wallen. The essential tracks, all in one playlist.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2zJOi2"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO2zJOi2",
+        "id": "37i9dQZF1DZ06evO2zJOi2",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/thisis/4oUHIQIBe0LHzYfvXNW4QM/en",
+            "width": null
+          }
+        ],
+        "name": "This Is Morgan Wallen",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "aLjWgAAAAACQgwUOOQQv8Du2u55mu5WH",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO2zJOi2/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DZ06evO2zJOi2"
+      },
+      {
+        "collaborative": false,
+        "description": "Nighttime is the right time for these party hits!",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXi7h4mmmkzD"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXi7h4mmmkzD",
+        "id": "37i9dQZF1DWXi7h4mmmkzD",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000026656512b8f0c7f72aace87dc",
+            "width": null
+          }
+        ],
+        "name": "Country Party",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "AAAAAO1lqfZhNQOrhlC67L0hu086JD1u",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXi7h4mmmkzD/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWXi7h4mmmkzD"
+      },
+      {
+        "collaborative": false,
+        "description": "the beat of your drift",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWWY64wDtewQt"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWWY64wDtewQt",
+        "id": "37i9dQZF1DWWY64wDtewQt",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000271ff720f409999d89f09a8e4",
+            "width": null
+          }
+        ],
+        "name": "phonk",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "AAAAABTYMTAytz7wrYgo6N+twOmiUoK9",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWWY64wDtewQt/tracks",
+          "total": 99
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWWY64wDtewQt"
+      },
+      {
+        "collaborative": false,
+        "description": "The biggest party hits of the 1980s.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX6xnkAwJX7tn"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX6xnkAwJX7tn",
+        "id": "37i9dQZF1DX6xnkAwJX7tn",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000028e6b9a53f7c37210a843ab0a",
+            "width": null
+          }
+        ],
+        "name": "80s Party",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "AAAAAJHwSfMS7e+aF1Bj/Ct7mwLzKvB+",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX6xnkAwJX7tn/tracks",
+          "total": 150
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX6xnkAwJX7tn"
+      },
+      {
+        "collaborative": false,
+        "description": "The biggest songs of the 2000s. Cover: Britney Spears",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX4o1oenSJRJd"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4o1oenSJRJd",
+        "id": "37i9dQZF1DX4o1oenSJRJd",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000002043bfef44142136749fc2917",
+            "width": null
+          }
+        ],
+        "name": "All Out 2000s",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "AAAAAKvnjGZwgPZYvgQnVj8sYMcl2Rlz",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4o1oenSJRJd/tracks",
+          "total": 150
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX4o1oenSJRJd"
+      },
+      {
+        "collaborative": false,
+        "description": "The songs of the 1970s that will make you dance all summer long!",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWZX4NmgTPdVb"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWZX4NmgTPdVb",
+        "id": "37i9dQZF1DWZX4NmgTPdVb",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000002515b6368159aa22da39bb01f",
+            "width": null
+          }
+        ],
+        "name": "Summer Hits of the 70s",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "AAAAAKanNaWfY+8QzxYyzYPjNHDS56Td",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWZX4NmgTPdVb/tracks",
+          "total": 75
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWZX4NmgTPdVb"
+      },
+      {
+        "collaborative": false,
+        "description": "Warm familiar pop you know and love.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWTwnEm1IYyoj"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTwnEm1IYyoj",
+        "id": "37i9dQZF1DWTwnEm1IYyoj",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000242ede53dcaaa172b7bbca101",
+            "width": null
+          }
+        ],
+        "name": "Soft Pop Hits",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#FFFFFF",
+        "public": true,
+        "snapshot_id": "AAAAAB9PNneZcDD8uqr0XeKWZlB9+Jnp",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTwnEm1IYyoj/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWTwnEm1IYyoj"
+      },
+      {
+        "collaborative": false,
+        "description": "This is Zach Bryan. The essential tracks, all in one playlist.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2llutr"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO2llutr",
+        "id": "37i9dQZF1DZ06evO2llutr",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/thisis/40ZNYROS4zLfyyBSs2PGe2/en",
+            "width": null
+          }
+        ],
+        "name": "This Is Zach Bryan",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "aLjWgAAAAABY42g7hNYHMP3afjxV4eZH",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO2llutr/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DZ06evO2llutr"
+      },
+      {
+        "collaborative": false,
+        "description": "Easy listening pop that feels sunny wherever you are ",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX1BzILRveYHb"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX1BzILRveYHb",
+        "id": "37i9dQZF1DX1BzILRveYHb",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000002e30f54d8b2a938d6c5fc13a0",
+            "width": null
+          }
+        ],
+        "name": "Sunny Day",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "AAAAACMBhPJuMvHC4pWF3Gr6/Sf/uy/x",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX1BzILRveYHb/tracks",
+          "total": 75
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX1BzILRveYHb"
+      },
+      {
+        "collaborative": false,
+        "description": "Get happy with today's dose of feel-good songs!",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX3rxVfibe1L0"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX3rxVfibe1L0",
+        "id": "37i9dQZF1DX3rxVfibe1L0",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000028191cc41d8585df6170b3e5e",
+            "width": null
+          }
+        ],
+        "name": "Mood Booster",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#FFc864",
+        "public": true,
+        "snapshot_id": "AAAAAJwoYC2KtsQZ/U2r2xMa/+10KEi2",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX3rxVfibe1L0/tracks",
+          "total": 80
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX3rxVfibe1L0"
+      },
+      {
+        "collaborative": false,
+        "description": "The best of the 1980s classics from Michael Jackson, Journey, Whitney Houston, TOTO, AC/DC, Kenny Loggins, Billy Joel, Survivor + more. Stranger Things, Top Gun, Back to the Future.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/19PgP2QSGPcm6Ve8VhbtpG"
+        },
+        "href": "https://api.spotify.com/v1/playlists/19PgP2QSGPcm6Ve8VhbtpG",
+        "id": "19PgP2QSGPcm6Ve8VhbtpG",
+        "images": [
+          {
+            "height": null,
+            "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84e3c1a976c360ce69cfa89594",
+            "width": null
+          }
+        ],
+        "name": "80s HITS | TOP 100 SONGS ",
+        "owner": {
+          "display_name": "Filtr US",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/myplay.com"
+          },
+          "href": "https://api.spotify.com/v1/users/myplay.com",
+          "id": "myplay.com",
+          "type": "user",
+          "uri": "spotify:user:myplay.com"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "AAANbDbX6yCldbCe9U5/cQDxrLTT+P8F",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/19PgP2QSGPcm6Ve8VhbtpG/tracks",
+          "total": 145
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:19PgP2QSGPcm6Ve8VhbtpG"
+      }
+    ],
+    "limit": 30,
+    "next": "https://api.spotify.com/v1/browse/featured-playlists?offset=30&limit=30&locale=en-CA,en-US;q%3D0.7,en;q%3D0.3",
+    "offset": 0,
+    "previous": null,
+    "total": 100
+  }
+}
